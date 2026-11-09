@@ -1,0 +1,10 @@
+# Archivos Excel generados y datos de entrada
+*.xlsx
+datos_entrada/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
