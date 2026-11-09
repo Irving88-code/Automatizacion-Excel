@@ -133,5 +133,5 @@ No es necesario tocar el resto del código.
 
 ## Autor
 
-**Irvin Torres** — Automatización de procesos con Python  
+**Irving Torres** — Automatización de procesos con Python  
 
